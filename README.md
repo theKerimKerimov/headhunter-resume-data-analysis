@@ -12,7 +12,7 @@
 
 Исследовательский анализ резюме с [HeadHunter](https://hh.ru): загрузка и преобразование признаков, интерактивные графики, поиск выбросов и выводы по рынку труда.
 
-**Автор:** [theKerimKerimov](https://github.com/theKerimKerimov) · **2026**  
+**Автор:** Karim — [theKerimKerimov](https://github.com/theKerimKerimov) · **2026**  
 **Репозиторий:** [headhunter-resume-data-analysis](https://github.com/theKerimKerimov/headhunter-resume-data-analysis)
 
 ---
